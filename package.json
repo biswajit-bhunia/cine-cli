@@ -1,0 +1,25 @@
+{
+  "name": "cine-cli",
+  "version": "1.0.0",
+  "description": "Get movie details and compare between movies.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node cli.js"
+  },
+  "keywords": [
+    "movie",
+    "cli"
+  ],
+  "author": "Biswajit Bhunia",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.4",
+    "commander": "^12.0.0",
+    "got": "^14.2.1",
+    "he": "^1.2.0",
+    "ora": "^8.0.1",
+    "terminal-image": "^2.0.0"
+  }
+}
