@@ -15,7 +15,10 @@ Options:
   -i, --id <id>        search movie by id
   -h, --help           display help for command
 ```
-<video src="./cine-cli.mp4" controls loop></video>
+
+
+https://github.com/biswajitbhunia123/cine-cli/assets/61654875/bf3901d0-ed2a-4251-bcbf-62c752e3af28
+
 
 ## License
 Copyright 2024 **Biswajit Bhunia**
