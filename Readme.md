@@ -1,5 +1,4 @@
 # cine-cli
----
 A terminal based movie details viewer written in `node.js`
 
 ## Installation
